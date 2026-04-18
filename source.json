@@ -1,0 +1,43 @@
+{
+  "name": "Jacksonvil Apps",
+  "subtitle": "All apps Jacksonvil",
+  "description": "Welcome to my source! Here you'll find all of my apps.\nThese apps may not need unsandboxed/JIT access, but just serve as a place to distribute my apps on my own devices without paying apple.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "OpenPulse",
+      "bundleIdentifier": "com.jacksonvil.OpenPulse",
+      "marketplaceID": "",
+      "developerName": "Jacksonvil",
+      "subtitle": "OpenWRT status at a glance",
+      "localizedDescription": "View the status of your openwrt enabled router with this app!\nWidgets coming soon.\n\nPlease note: This app is sandboxed. It is only distributed on AltStore due to Apple developer pricing.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/jacksonvil-s/openpulse/blob/main/Releases/v1.1/OpenPulse.ipa",
+          "size": 100000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-04-12T11:07:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "We need this to access the status from your router. Data NEVER leaves your device."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
