@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Version-0.1-blue">
+
 # openpulse
 View OpenWRT status, at a glance
 
